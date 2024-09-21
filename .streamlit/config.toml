@@ -1,0 +1,9 @@
+# .streamlit/config.toml
+
+[theme]
+# Fall-inspired color palette
+primaryColor = "#D2691E"  # Chocolate brown for primary elements
+backgroundColor = "#FFF5E1"  # Light cream background for a warm and inviting look
+secondaryBackgroundColor = "#FFE4B5"  # Moccasin color to add a subtle contrast
+textColor = "#8B4513"  # Dark brown text for readability and fall aesthetics
+font = "sans serif"  # Sans serif for a clean, modern look
